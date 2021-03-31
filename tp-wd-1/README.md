@@ -1,10 +1,10 @@
-# WebPortfolio
+# WebPortfolio :fallen_leaf:
 
-## Mentor
+## Mentor :seedling:
 
 > Ritesh Rathod
 
-## Members
+## Members :palm_tree:
 
 ||Name|
 |-|-|
@@ -13,26 +13,26 @@
 
 <br>
 
-## About Project 
+## About Project :balloon:
 
-Our aim is to create a website containing all the portfolio of participants at one place we decided to work on this projects because as we are web developer so every recruiter expects atleast one portfolio that show case our skills and projects. At the end of this project every participant will have his/her own Portfolio.
+Our aim is to create a website containing all the portfolio of participants at one place we decided to work on this projects because as we are web developer so every recruiter expects atleast one portfolio that show case our skills and projects. At the end of this project every participant will have his/her own Portfolio. :leaves:
 
-## Workflow
+## Workflow :question:
 
-### Steps
+### Steps :cyclone:
 
-1. Creation of index page where all the Portfolios will be linked
-2. Each member will create his own Portfolio
-3. Final step will be to make a pull request on GitHub
+1. Creation of index page where all the Portfolios will be linked :ear_of_rice:
+2. Each member will create his own Portfolio :shell:
+3. Final step will be to make a pull request on GitHub :electric_plug:
 
-### Task Assigned
+### Task Assigned :pencil:
 
-1. Soyabul Islam
+1. Soyabul Islam :bicyclist:
 
    - Creation of Portfolio using Angular
    - Linking it to the main file
 
-2. Hrushikesh Das
+2. Hrushikesh Das :bicyclist:
 
    - Creation of Portfolio using React
    - Linking it to the main file
