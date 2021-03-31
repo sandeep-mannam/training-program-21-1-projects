@@ -25,6 +25,8 @@ Initially, we approached the project in the following sequence:
 1. Recognizing the palm
 1. Tracking the landmarks of the palm
 1. Drawing lines and circle on those tracking landmarks
+
+
 Here Cavin used OpenCV for getting the webcam feed. Then he converted that from BGR to RGB using OpenCV. Followed by tracking 
 the landmarks using mediapipe library.MediaPipe Hands utilizes an ML pipeline consisting of multiple models working together: A 
 palm detection model that operates on the full image and returns an oriented hand bounding box. A hand landmark model that operates 
