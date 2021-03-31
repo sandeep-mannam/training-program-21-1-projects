@@ -1,0 +1,66 @@
+/* For Tablets */
+
+@media all and (max-width: 1000px) {
+    .welcome h1 {
+        font-size: 32px;
+    }
+    .welcome {
+        padding: 180px 0 450px 0;
+    }
+    .heading h2 {
+        font-size: 20px;
+    }
+    .lesson {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+}
+
+
+/* For Smartphones */
+
+@media all and (max-width: 670px) {
+    .header-right {
+        display: none;
+    }
+    .container h1 {
+        display: block;
+        align-items: center;
+    }
+    .wrap img {
+        height: 153px;
+        width: 187px;
+    }
+    .welcome {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 102px 0 50px 0;
+    }
+    span.menu-icon {
+        display: block;
+    }
+    .btn {
+        width: 100%;
+    }
+    .facebook {
+        margin-bottom: 10px;
+    }
+    .welcome {
+        text-align: left;
+    }
+    .welcome h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .welcome p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .lesson {
+        width: 100%;
+    }
+    footer {
+        text-align: center;
+    }
+}
