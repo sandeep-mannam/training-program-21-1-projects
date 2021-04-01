@@ -17,6 +17,9 @@
 
 Our aim is to create a website containing all the portfolio of participants at one place we decided to work on this projects because as we are web developer so every recruiter expects atleast one portfolio that show case our skills and projects. At the end of this project every participant will have his/her own Portfolio. :leaves:
 
+<img src="img/web1.png" height="500px" width="1000px">
+<img src="img/web2.png" height="500px" width="1000px">
+
 ## Workflow :question:
 
 ### Steps :cyclone:
