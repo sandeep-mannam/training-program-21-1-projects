@@ -14,8 +14,9 @@
 
 #### About Project 
 
-Explain project in 100 words
+we are using file handling methods,so we can access data and process it for exploring email and file
 
 #### Workflow
-
-Explain the workflow and tasks undertaken by each member.
+Data preparation 
+Data analysis
+we have gone through each feature and explored it and shared each task
