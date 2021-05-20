@@ -1,4 +1,4 @@
-# Training program 21-1 projects
+# Training program 21-2 projects
 This repository is for project submission for training program 2021, 2nd batch.
 
 #### Steps to be followed for submitting project:
