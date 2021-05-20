@@ -1,10 +1,10 @@
-# WebPortfolio :fallen_leaf:
+# Project name:
 
-## Mentor :seedling:
+## Mentor :
 
-> Ritesh Rathod
+> 
 
-## Members :palm_tree:
+## Members :
 
 ||Name|
 |-|-|
