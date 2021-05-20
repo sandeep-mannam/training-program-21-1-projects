@@ -2,17 +2,16 @@
 
 #### Mentor
 
-> Abhishek Patel
+> 
 
 #### Members
 
 ||Name|
 |-|-|
-|1|Abu Afza|
-|2|Anusha Thatikonda|
-|3|Arpit Dubey|
-|4|Bharath CS |
-|5|Bindu|
+|1||
+|2||
+|3||
+|4||
 
 #### About Project 
 
