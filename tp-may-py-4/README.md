@@ -1,4 +1,5 @@
 # Project name
+
 #### Mentor
 
 > 
@@ -14,6 +15,9 @@
 
 #### About Project 
 
+Explain project in 100 words
 
 #### Workflow
+
+Explain the workflow and tasks undertaken by each member.
 
