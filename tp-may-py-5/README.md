@@ -1,10 +1,10 @@
-# Project name:
+# Project name
 
-## Mentor :
+#### Mentor
 
 > 
 
-## Members :
+#### Members
 
 ||Name|
 |-|-|
@@ -12,12 +12,15 @@
 |2||
 |3||
 |4||
-<br>
 
-## About Project :
+#### About Project 
 
+Explain project in 100 words
 
-## Workflow :
+#### Workflow
+
+Explain the workflow and tasks undertaken by each member.
+
 
 
 
