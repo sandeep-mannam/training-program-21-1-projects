@@ -1,5 +1,5 @@
 # Project name
-Hand and Palm Detection
+
 
 #### Mentor
 
