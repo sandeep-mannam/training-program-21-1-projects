@@ -9,7 +9,7 @@ Tabassum
 ||Name|
 |-|-|
 |1| SANDEEP MANNAM|
-|2| ALEX PULIVELIl
+|2| ALEXY P THOMAS
 
 #### About Project 
 
