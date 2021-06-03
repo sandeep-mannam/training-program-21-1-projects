@@ -18,5 +18,5 @@ the idea of this project is to provide a simple GUI application to user to get t
 
 #### Workflow
 
-Explain the workflow and tasks undertaken by each member.
+we the team have decided to do the weather report project ,so i have choosen the libraries for the project and coded according to the layout ,alex had co-ordinated and tested the code and mentor tabassum guided to complete the project and we has completed it within a week.  
 
